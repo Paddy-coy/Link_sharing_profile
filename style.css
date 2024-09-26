@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+.header-page {
+    background: #172121;
+    width: 300px;
+    text-align: center;
+    height: 470px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img {
+    border-radius: 400px;
+    margin-top: 20px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+   margin-right: auto;
+   margin: 20px;
+   
+}
+a {
+    margin: 8px;
+    color: #fff;
+}
+.link-one {
+    background: #7F7B82;
+    height: 30px;
+}
+.link-two {
+    background: #7F7B82;
+    height: 30px;
+  
+}
+.link-three {
+    background: #7F7B82;
+    height: 30px;
+}
+.link-four {
+    background: #7F7B82;
+    height: 30px;
+}
