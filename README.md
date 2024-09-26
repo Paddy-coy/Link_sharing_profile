@@ -1,1 +1,1 @@
-# A simple cafe menu built with html and css 
+# a social link profile built with vanilla html and css
